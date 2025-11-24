@@ -35,8 +35,4 @@ Standardized templates for efficient academic writing.
 * 🛠️ [**[OriginalTemplate]**](https://github.com/Guo-Hui-acoustics/OriginalTemplate) - My collection of original LaTeX base templates.
 * 📄 [**[myArticle]**](https://github.com/Guo-Hui-acoustics/myArticle) - Draft workspace & paper writing template.
 
----
-<div align="center">
-  <sub><b>Guo-Hui-acoustics</b> | Structured for Clarity and Efficiency</sub><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Guo-Hui-acoustics&show_icons=true&theme=minimal&hide_border=true" alt="Stats" height="150"/>
-</div>
+
