@@ -1,40 +1,42 @@
-# 🛠️ Guo-Hui-acoustics's Workspace
+# 👋 Hi, I'm Guo-Hui-acoustics
 
-> **Acoustics Research | LaTeX Expert | Signal Processing**
-> *Managing literature and massive LaTeX projects structurally.*
+> 🎧 **Research Focus:** Active Noise Control (ANC) | Spatial Audio | Signal Processing
+> 📐 **Methodology:** Mathematical Modeling & LaTeX-based Documentation
 
 ---
 
-## 📡 Zone I & II: Research Domains
-**左侧**为文献数据库 (EndNote Style)，**右侧**为对应的 LaTeX 核心笔记工程。
+## 📡 Zone I & II: Research Dashboard
+**Left Column**: Literature Database (PDFs) | **Right Column**: Associated Research Notes (LaTeX Projects)
 
-| 🆔 Domain | 📂 Zone I: Literature (PDFs) | 📓 Zone II: Research Notes (LaTeX Projects) |
+| 🆔 Research Domain | 📂 Zone I: Literature (PDFs) | 📓 Zone II: Research Notes (LaTeX Projects) |
 | :--- | :--- | :--- |
-| **01** | [**[Lit-Underwater-Comms]**](YOUR_LINK_HERE) <br> *水声通信文献库* <br> `> 物理层` `> MAC层` | [**[RNote-Underwater-Comms]**](YOUR_LINK_HERE) <br> *对应科研推导与复现* <br> 🔹 [信道建模推导 Project](./link/to/folder) <br> 🔹 [网络仿真实验 Project](./link/to/folder) |
-| **02** | [**[Lit-Acoustic-Metamaterials]**](YOUR_LINK_HERE) <br> *声学超材料文献库* <br> `> 吸声` `> 隐身` | [**[RNote-Metamaterials]**](YOUR_LINK_HERE) <br> *对应设计与仿真笔记* <br> 🔹 [AM结构设计 Project](./link/to/folder) |
-| **03** | [**[Lit-Signal-Processing]**](YOUR_LINK_HERE) <br> *通用信号处理* | [**[RNote-DSP-Algorithms]**](YOUR_LINK_HERE) <br> *算法复现笔记* |
+| **主动噪声控制**<br>*(Active Noise Control)* | [**[Lit-Active-Noise-Control]**](https://github.com/Guo-Hui-acoustics/Lit-Active-Noise-Control)<br><br>📥 *Focus: ANC Algorithms, FXLMS variants* | 1️⃣ [**[ReNo-Active-Noise-Control]**](https://github.com/Guo-Hui-acoustics/ReNo-Active-Noise-Control)<br>*Primary Derivations & Notes*<br><br>2️⃣ [**[ANC]**](https://github.com/Guo-Hui-acoustics/ANC)<br>*Specific Project / Simulation* |
+| **空间音频重现**<br>*(Spatial Sound)* | [**[Lit-Spatial-Sound-Reproduction]**](https://github.com/Guo-Hui-acoustics/Lit-Spatial-Sound-Reproduction)<br>📥 *Focus: Ambisonics, WFS* | [**[ReNo-Spatial-Sound-Reproduction]**](https://github.com/Guo-Hui-acoustics/ReNo-Spatial-Sound-Reproduction)<br>*Reproduction theories* |
+| **独立声区**<br>*(Sound Zone)* | [**[Lit-Independent-Sound-Zone]**](https://github.com/Guo-Hui-acoustics/Lit-Independent-Sound-Zone)<br>📥 *Focus: Acoustic Contrast Control* | [**[ReNo-Independent-Sound-Zone]**](https://github.com/Guo-Hui-acoustics/ReNo-Independent-Sound-Zone)<br>*Zone control simulations* |
+| **FMWF**<br>*(Modulation Research)* | [**[Lit-FMWF]**](https://github.com/Guo-Hui-acoustics/Lit-FMWF)<br>📥 *Focus: Waveform modulation* | [**[ReNo-FMWF]**](https://github.com/Guo-Hui-acoustics/ReNo-FMWF)<br>*Related algorithm notes* |
 
 ---
 
-## 🧠 Zone III: Personal Knowledge Base
-独立于具体科研项目的个人知识积累，每个条目均为独立的 LaTeX 项目。
+## 🧠 Zone III: Personal Knowledge Base (My Wikis)
+Independent LaTeX projects for fundamental theories and computer science skills.
 
-| 📂 Repository | 📝 Included LaTeX Projects | 📅 Last Update |
+| 🗂 Category | 📦 Repository | 📝 Description |
 | :--- | :--- | :--- |
-| [**[PNote-Mathematics]**](YOUR_LINK_HERE) | 🔹 矩阵论复习笔记 (Matrix Theory)<br>🔹 随机过程 (Stochastic Process) | 2025-10 |
-| [**[PNote-CS-Skills]**](YOUR_LINK_HERE) | 🔹 算法导论笔记<br>🔹 Linux 内核源码分析 | 2025-11 |
-| [**[PNote-Readings]**](YOUR_LINK_HERE) | 🔹 哲学书籍读书笔记<br>🔹 年度总结 | 2025-09 |
+| **Signal Processing** | [**[DSP]**](https://github.com/Guo-Hui-acoustics/DSP) | Digital Signal Processing core notes |
+| **Signal Processing** | [**[Signal_and_System]**](https://github.com/Guo-Hui-acoustics/Signal_and_System) | Signals and Systems (Undergraduate review) |
+| **Mathematics** | [**[LinearAlgebra]**](https://github.com/Guo-Hui-acoustics/LinearAlgebra) | Matrix Theory & Linear Algebra derivations |
+| **Computer Science** | [**[Introduction_to_Algorithm]**](https://github.com/Guo-Hui-acoustics/Introduction_to_Algorithm) | CS Basics & Algorithm Analysis |
 
 ---
 
-## 📐 Zone IV: Personal Templates
-标准化的 LaTeX 与代码模板库。
+## 📐 Zone IV: Toolkits & Templates
+Standardized templates for efficient academic writing.
 
-* [**[Tpl-LaTeX-Academic]**](YOUR_LINK_HERE) - 包含 IEEE, JASA, Elsevier 等期刊的个人魔改模板。
-* [**[Tpl-Beamer-Slides]**](YOUR_LINK_HERE) - 个人风格的学术汇报 PPT (Beamer) 模板。
-* [**[Tpl-Python-Figures]**](YOUR_LINK_HERE) - 科研绘图 Python 脚本模板。
+* 🛠️ [**[OriginalTemplate]**](https://github.com/Guo-Hui-acoustics/OriginalTemplate) - My collection of original LaTeX base templates.
+* 📄 [**[myArticle]**](https://github.com/Guo-Hui-acoustics/myArticle) - Draft workspace & paper writing template.
 
 ---
 <div align="center">
-<sub>Managed by Guo-Hui-acoustics via GitHub | Last Updated: 2025</sub>
+  <sub><b>Guo-Hui-acoustics</b> | Structured for Clarity and Efficiency</sub><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guo-Hui-acoustics&show_icons=true&theme=minimal&hide_border=true" alt="Stats" height="150"/>
 </div>
