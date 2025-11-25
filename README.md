@@ -138,8 +138,8 @@ Click the cards to access independent LaTeX projects.
 
 | 📦 Repository | 📝 Usage |
 | :--- | :--- |
-| 🛠️ [**[OriginalTemplate]**](https://github.com/Guo-Hui-acoustics/OriginalTemplate) | My collection of original LaTeX base templates. |
-| 📄 [**[myArticle]**](https://github.com/Guo-Hui-acoustics/myArticle) | Draft workspace & paper writing template. |
+| 🛠️ [**[OriginalTemplate]**](https://github.com/Guo-Hui-acoustics/OriginalTemplate) | My template for books. |
+| 📄 [**[myArticle]**](https://github.com/Guo-Hui-acoustics/myArticle) | My template for article. |
 
 ---
 <div align="center">
