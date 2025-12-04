@@ -1,151 +1,67 @@
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1558486012-817176f84c6d?q=80&w=1200&h=400&auto=format&fit=crop" alt="Acoustics Research Banner" width="100%" style="border-radius: 12px" />
+<h1 align="center">Hi there, I'm Guo Hui 👋</h1>
 
-  <h1 style="font-size: 2.5rem; margin-bottom: 10px;">🔊 Guo-Hui-acoustics' Workspace</h1>
+<h3 align="center">Acoustics | Signal Processing | Algorithms</h3>
 
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Active_Noise_Control-0052cc?style=flat-square&logo=google-scholar&logoColor=white" alt="ANC" />
-    <img src="https://img.shields.io/badge/Focus-Spatial_Audio-0052cc?style=flat-square&logo=google-scholar&logoColor=white" alt="Spatial Audio" />
-    <img src="https://img.shields.io/badge/Tool-LaTeX_Master-e32f2b?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-    <img src="https://img.shields.io/badge/Tool-MATLAB_&_Python-yellow?style=flat-square" alt="Code" />
-  </p>
-  <p><i>Structured Knowledge Base for Acoustics & Signal Processing Research.</i></p>
-</div>
+<p align="center"> 
+  <em>专注于声学、信号处理与算法研究的科研工作者</em>
+</p>
 
----
-
-## 📡 Zone I & II: Research Dashboard
-**Left: Literature Hub (PDFs)** | **Right: Deep Dive Notes (LaTeX Projects)**
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="25%">🆔 Research Domain</th>
-      <th width="35%">📚 Zone I: Literature Repos</th>
-      <th width="40%">📓 Zone II: Research Note Repos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <h3>🔇 ANC</h3>
-        <small>Active Noise Control</small>
-      </td>
-      <td>
-        <a href="https://github.com/Guo-Hui-acoustics/Lit-Active-Noise-Control">
-          <img src="https://img.shields.io/badge/REPO-Lit--Active--Noise--Control-blue?style=for-the-badge&logo=github" alt="Lit Repo" />
-        </a><br>
-        ⬇️ <i>FXLMS variants, Algorithms</i>
-      </td>
-      <td>
-        <table border="0" cellspacing="0" cellpadding="0" width="100%">
-            <tr>
-                <td style="border: none;">1️⃣ <a href="https://github.com/Guo-Hui-acoustics/ReNo-Active-Noise-Control"><b>[ReNo-ANC]</b></a> <img src="https://img.shields.io/badge/Status-Primary_Derivation-orange?style=flat-square" alt="Status" /></td>
-            </tr>
-            <tr>
-                <td style="border: none;">2️⃣ <a href="https://github.com/Guo-Hui-acoustics/ANC"><b>[ANC Project]</b></a> <img src="https://img.shields.io/badge/Status-Simulation-yellow?style=flat-square" alt="Status" /></td>
-            </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🎧 Spatial</h3>
-        <small>Sound Reproduction</small>
-      </td>
-      <td>
-        <a href="https://github.com/Guo-Hui-acoustics/Lit-Spatial-Sound-Reproduction">
-          <img src="https://img.shields.io/badge/REPO-Lit--Spatial--Sound-blue?style=for-the-badge&logo=github" alt="Lit Repo" />
-        </a><br>
-        ⬇️ <i>Ambisonics, WFS</i>
-      </td>
-      <td>
-        <a href="https://github.com/Guo-Hui-acoustics/ReNo-Spatial-Sound-Reproduction"><b>[ReNo-Spatial-Sound]</b></a> <img src="https://img.shields.io/badge/Status-Theory_Notes-success?style=flat-square" alt="Status" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🎯 Zones</h3>
-        <small>Independent Sound Zone</small>
-      </td>
-      <td>
-        <a href="https://github.com/Guo-Hui-acoustics/Lit-Independent-Sound-Zone">
-          <img src="https://img.shields.io/badge/REPO-Lit--Sound--Zone-blue?style=for-the-badge&logo=github" alt="Lit Repo" />
-        </a><br>
-        ⬇️ <i>Acoustic Contrast Control</i>
-      </td>
-      <td>
-        <a href="https://github.com/Guo-Hui-acoustics/ReNo-Independent-Sound-Zone"><b>[ReNo-Sound-Zone]</b></a> <img src="https://img.shields.io/badge/Status-Developing-blueviolet?style=flat-square" alt="Status" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>〰️ FMWF</h3>
-        <small>Modulation Research</small>
-      </td>
-      <td>
-        <a href="https://github.com/Guo-Hui-acoustics/Lit-FMWF">
-          <img src="https://img.shields.io/badge/REPO-Lit--FMWF-blue?style=for-the-badge&logo=github" alt="Lit Repo" />
-        </a><br>
-        ⬇️ <i>Waveform modulation</i>
-      </td>
-      <td>
-        <a href="https://github.com/Guo-Hui-acoustics/ReNo-FMWF"><b>[ReNo-FMWF]</b></a> <img src="https://img.shields.io/badge/Status-Notes-lightgrey?style=flat-square" alt="Status" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Acoustics-blue?style=flat-square&logo=google-scholar" alt="Acoustics">
+  <img src="https://img.shields.io/badge/Tool-LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+  <img src="https://img.shields.io/badge/Tool-MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</p>
 
 ---
 
-## 🧠 Zone III: Knowledge Base (Wiki Cards)
-Click the cards to access independent LaTeX projects.
+### 🧐 关于我 (About Me)
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Guo-Hui-acoustics/DSP">
-        <img src="https://img.shields.io/badge/📶_DSP-Core_Notes-00c853?style=for-the-badge" height="50" />
-      </a>
-      <p>Digital Signal Processing.</p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Guo-Hui-acoustics/LinearAlgebra">
-        <img src="https://img.shields.io/badge/🔢_Math-Linear_Algebra-00c853?style=for-the-badge" height="50" />
-      </a>
-      <p>Matrix Theory & Derivations.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Guo-Hui-acoustics/Signal_and_System">
-        <img src="https://img.shields.io/badge/📈_Signals-&_Systems-009688?style=for-the-badge" height="50" />
-      </a>
-      <p>Undergraduate review notes.</p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Guo-Hui-acoustics/Introduction_to_Algorithm">
-        <img src="https://img.shields.io/badge/💻_CS-Algorithms-009688?style=for-the-badge" height="50" />
-      </a>
-      <p>CS Basics & Analysis.</p>
-    </td>
-  </tr>
-</table>
+- 🔭 我目前正在进行声学与信号处理相关的研究。
+- 📚 我热衷于整理科研笔记，并将其开源以帮助更多学习者。
+- 🛠️ 我也是一名 LaTeX 爱好者，喜欢制作排版精美的文档模板。
+- 📫 **联系方式**: [您的邮箱或个人主页链接]
 
 ---
 
-## 📐 Zone IV: Toolkits & Templates
+### 📝 科研笔记 (Scientific Research Notes)
 
-| 📦 Repository | 📝 Usage |
+这里存放我主要的科研文献整理与核心研究记录。
+
+| 仓库名称 | 描述 |
 | :--- | :--- |
-| 🛠️ [**[OriginalTemplate]**](https://github.com/Guo-Hui-acoustics/OriginalTemplate) | My template for books. |
-| 📄 [**[myArticle]**](https://github.com/Guo-Hui-acoustics/myArticle) | My template for article. |
+| **[ScientificNotes](https://github.com/Guo-Hui-acoustics/ScientificNotes)** | 🗂️ 核心科研笔记与文献管理库 |
 
 ---
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Guo-Hui-acoustics&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Guo-Hui-acoustics's Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guo-Hui-acoustics&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
 
-  <p><sub>Managed by Guo-Hui-acoustics | 🌍 Acoustic Research in Progress</sub></p>
+### 📚 个人笔记 (Personal Study Notes)
+
+记录我在基础学科与专业课学习过程中的推导与总结。
+
+| 领域 | 仓库 | 备注 |
+| :--- | :--- | :--- |
+| **信号处理** | **[DSP](https://github.com/Guo-Hui-acoustics/DSP)** | 数字信号处理笔记 |
+| **系统论** | **[Signal_and_System](https://github.com/Guo-Hui-acoustics/Signal_and_System)** | 信号与系统基础 |
+| **声学/降噪** | **[ANC](https://github.com/Guo-Hui-acoustics/ANC)** | 有源噪声控制 (Active Noise Control) |
+| **算法** | **[Introduction_to_Algorithm](https://github.com/Guo-Hui-acoustics/Introduction_to_Algorithm)** | 算法导论学习记录 |
+| **数学基础** | **[LinearAlgebra](https://github.com/Guo-Hui-acoustics/LinearAlgebra)** | 线性代数核心概念整理 |
+
+---
+
+### 🎨 个人模板 (LaTeX & Templates)
+
+我自己编写和维护的文档、论文及设计模板。
+
+| 仓库名称 | 类型 | 说明 |
+| :--- | :--- | :--- |
+| **[OriginalTemplate](https://github.com/Guo-Hui-acoustics/OriginalTemplate)** | 📄 基础模板 | 个人原创的基础 LaTeX 模板 |
+| **[myArticle](https://github.com/Guo-Hui-acoustics/myArticle)** | 📝 论文模板 | 适用于学术写作的文章模板 |
+| **[MiddleAges](https://github.com/Guo-Hui-acoustics/MiddleAges)** | 📜 复古风格 | 中世纪羊皮纸风格特色模板 |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guo-Hui-acoustics&show_icons=true&theme=minimal&hide_border=true" alt="Guo Hui's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guo-Hui-acoustics&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" />
 </div>
