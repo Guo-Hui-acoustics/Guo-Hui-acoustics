@@ -57,9 +57,9 @@ My open-source templates for academic writing.
 
 | Template Name | Style | Link |
 | :--- | :--- | :---: |
-| **OriginalTemplate** | `Standard` | [View Repo](https://github.com/Guo-Hui-acoustics/OriginalTemplate) |
-| **myArticle** | `Academic` | [View Repo](https://github.com/Guo-Hui-acoustics/myArticle) |
-| **MiddleAges** | `Vintage/Art` | [View Repo](https://github.com/Guo-Hui-acoustics/MiddleAges) |
+| **mynotes** | `Template for notes(book)` | [View Repo](https://github.com/Guo-Hui-acoustics/DSP) |
+| **myArticle** | `Template for article(article)` | [View Repo](https://github.com/Guo-Hui-acoustics/myArticle) |
+| **MiddleAges** | `a special one` | [View Repo](https://github.com/Guo-Hui-acoustics/MiddleAges) |
 
 ---
 
